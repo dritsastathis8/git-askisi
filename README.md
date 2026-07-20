@@ -1,1 +1,1 @@
-This is my first project on Git
+This is a new function for test
